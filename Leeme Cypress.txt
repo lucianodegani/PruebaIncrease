@@ -1,0 +1,5 @@
+Instalar Cypress
+1) en el directorio del proyecto
+npm install cypress --save-dev
+
+2) node_modules\.bin\cypress open
